@@ -1,0 +1,2 @@
+﻿#Implemented
+swagger, JWt token token authentication, Api versioning
